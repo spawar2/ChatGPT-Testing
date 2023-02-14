@@ -4,7 +4,7 @@ import openai
 import os
 os.chdir("/Users/pawar/Desktop/ChatGPT")
 # Initialize the API key for OpenAI
-openai.api_key = "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"
+openai.api_key = ""
 
 def generate_response(prompt):
     completions = openai.Completion.create(
@@ -31,4 +31,4 @@ for question in questions:
     response = generate_response(question)
     print(f"Question: {question}")
     print(f"Response: {response}")
-    print("-" * 20)
+    print("-" * 1)
