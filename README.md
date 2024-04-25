@@ -1,7 +1,7 @@
 # ChatGPT Testing, [This project in collaboration with P Bhave, Senior Software Engineer, Walmart. https://github.com/bpritish https://www.linkedin.com/in/pritishbhave](https://github.com/bpritish
 https://www.linkedin.com/in/pritishbhave
 This project in collaboration with P Bhave, Senior Software Engineer, Walmart. Analyze ChatGPT's codex to determine it's viability to identify basic issues with provided Python code using OpenAI's code model, current `code-cushman-001`)
-
+[Python: os, time, datetime, openai]
 Introduction
 ===
 Analyze ChatGPT's codex to determine it's viability to identify basic issues
