@@ -42,6 +42,7 @@ https://youtu.be/GhuF9INWxTY
 https://campuspress.yale.edu/shrikantpawar/files/2024/05/ICECET.pptx
 Claflin University, Orangeburg, South Carolina, USA 
 https://www.claflin.edu/
+https://campuspress.yale.edu/shrikantpawar/files/2024/07/ICECET.pdf
 
 
 Resources
