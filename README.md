@@ -49,3 +49,5 @@ Resources:
 ---
 - [OpenAI's API documentation](https://platform.openai.com/docs/api-reference/introduction)
 - [OpenAI's Code models](https://platform.openai.com/docs/models/codex)
+
+- chatGPT-testing.py: Initialize the API key for OpenAI, read question, get chatgpt response.
