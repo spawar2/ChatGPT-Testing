@@ -51,4 +51,4 @@ Resources:
 - [OpenAI's Code models](https://platform.openai.com/docs/models/codex)
 
 - chatGPT-testing.py: Initialize the API key for OpenAI, read question, get chatgpt response.
-selected function(get_chatgpt_response, read_py_files_in_folder)
+selected function(get_chatgpt_response, read_py_files_in_folder).
