@@ -53,7 +53,7 @@ Resources:
 - chatGPT-testing.py: Initialize the API key for OpenAI, read question, get chatgpt response.
 selected function(get_chatgpt_response, read_py_files_in_folder).
 
-OpenAI's GPT-3/ChatGPT: Suggests & Correct, Publication: IEEE, Publication date: October 9, 2024, collaboration with Rushikesh Chopade Git (Presently with ChestAi, https://www.chestai.org/), Indian Institute of Technology, Kharagpur, Pritish Bhave, and Dr. Stanam, University of Iowa, Iowa City, USA.[**2024:44]. GitHub, Presentation Certificate, Overview PPT, Presentation^^
+OpenAI's GPT-3/ChatGPT: Suggests & Correct, Publication: IEEE, Publication date: October 9, 2024, collaboration with Rushikesh Chopade Git (Presently with ChestAi, https://www.chestai.org/), Indian Institute of Technology, Kharagpur, Pritish Bhave, and Dr. Stanam, University of Iowa, Iowa City, United States of America (USA)..[**2024:44]. GitHub, Presentation Certificate, Overview PPT, Presentation^^
 Collaboration with with Rushikesh Chopade Git (Presently with ChestAi, https://www.chestai.org/), Indian Institute of Technology, Kharagpur, Pritish Bhave, and Dr. Aditya Stanam, University of Iowa, Iowa City, USA. https://www.linkedin.com/in/pritishbhave
 https://www.linkedin.com/in/aditya-stanam-07bbb819/
 https://github.com/rushikeshchopaderc
