@@ -40,7 +40,7 @@ Steps:
 The 4th International Conference on Electrical, Computer and Energy Technologies 2024 (ICECET), Sydney, Australia, OpenAI's GPT-3/ChatGPT: Suggests & Corrects, Shrikant Pawar, Pritish Bhave, Rushikesh Chopade, Aditya Stanam. Github Overview PPT Presentation.
 https://www.icecet.com/home
 https://www.linkedin.com/in/aditya-stanam-07bbb819/
-https://youtu.be/GhuF9INWxTY
+Video presentation: https://youtu.be/GhuF9INWxTY
 https://campuspress.yale.edu/shrikantpawar/files/2024/05/ICECET.pptx
 Claflin University, Orangeburg, South Carolina, USA. 
 https://www.claflin.edu/
