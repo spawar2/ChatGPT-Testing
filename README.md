@@ -2,7 +2,7 @@
 https://www.linkedin.com/in/pritishbhave
 OpenAI's GPT-3/ChatGPT: Suggests & Correct, Publication: IEEE, (Publication date: October 9, 2024), collaboration with Rushikesh Chopade, Git (Presently with ChestAi, https://www.chestai.org/), Indian Institute of Technology, Kharagpur, Pritish Bhave, Dr. Stanam, University of Iowa, Iowa City, USA. Pawar Shrikant [**2024:44]. GitHub, Presentation Certificate, Overview PPT, Presentation^^Article link1, 2, 3, 4, 5, 6, 7. DOI https://doi.org/10.1109/ICECET61485.2024.10698683, Issue, Volume, Pages: pp. 1-4.
 This project in collaboration with P Bhave, Senior Software Engineer, Walmart. Analyze ChatGPT's codex to determine it's viability to identify basic issues with provided Python code using OpenAI's code model, current `code-cushman-001`).
-[Python: os, time, datetime, openai].†
+[Python: os, time, datetime, openai].† Digital Object Identifier (DOI)=Online International Standard Book Number (ISBN).
 †Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
 Introduction:
 ===
