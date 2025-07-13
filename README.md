@@ -8,6 +8,7 @@ Introduction:
 ===
 Analyze ChatGPT's codex to determine it's viability to identify basic issues.
 with provided Python code using OpenAI's code model, current `code-cushman-001`
+<img width="876" height="609" alt="Code Testing Metrics" src="https://github.com/user-attachments/assets/aa04853a-1511-4795-bce6-bff417a4eee8" />
 
 <img width="218" alt="ICECET" src="https://github.com/spawar2/ChatGPT-Testing/assets/25118302/c62bd8c9-3f41-46ed-a417-98916024b4b2">
 
